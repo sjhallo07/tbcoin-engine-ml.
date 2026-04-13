@@ -19,7 +19,7 @@ transformers==4.36.2
 scikit-learn==1.8.0
 xgboost==2.0.1
 lightgbm==4.1.0
-stable-baselines3==2.0.0
+stable-baselines3==2.8.0
 
 # Experiment tracking & utilities
 mlflow==2.10.1
