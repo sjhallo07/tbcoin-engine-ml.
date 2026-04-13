@@ -13,7 +13,7 @@ solders==0.27.1
 # NEW - AI/ML Dependencies
 transformers==4.36.2
 torch==2.5.1
-torchvision==0.20.1
+torchvision==0.26.0
 scikit-learn==1.8.0
 xgboost==2.0.1
 lightgbm==4.1.0
