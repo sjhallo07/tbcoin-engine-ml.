@@ -35,6 +35,6 @@ coingecko-sdk==1.0.0
 
 # NEW - Utilities
 python-dotenv==1.0.0
-pydantic==2.5.0
+pydantic==2.13.3
 pydantic-settings==2.1.0
 # asyncio is a standard library module in Python 3.4+, no need to install separately
